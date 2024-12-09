@@ -1,1 +1,1 @@
-# Quantum-Mechanics-Research-Project-
+# Quantum-Mechanics-Research-Project
