@@ -1,5 +1,5 @@
 # Quantum-Mechanics-Research-Project
-
+[!poster.png]
 
 Quantum healing is a holistic approach that blends ancient philosophies, energy medicine, and emerging scientific theories. Rooted in the concept that the human body is not just a physical entity but also an energy system, quantum healing proposes that positive thoughts and intentions can influence cellular and energetic states, promoting self-healing. The term was popularized by Deepak Chopra and draws parallels with quantum physics, suggesting that the body and mind are interconnected at a quantum level.
 
@@ -41,4 +41,4 @@ The project aligns with quantum healing principles, showcasing how mindfulness a
 Positive energy generated through mindful practices leads to endorphin production, promoting a sense of healing and balance.
 Implications and Future Directions:
 This research bridges the gap between ancient healing traditions and modern science, presenting quantum healing as a viable intervention for mental health. It highlights the potential for integrating holistic practices into mainstream healthcare, especially for chronic and stress-related disorders. Future studies should focus on longitudinal data to assess the sustained impact of these interventions and explore their applicability in broader populations.
-[!]
+
