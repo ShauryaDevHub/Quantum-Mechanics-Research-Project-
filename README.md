@@ -1,5 +1,5 @@
 # Quantum-Mechanics-Research-Project
-[!poster.png]
+![Quantum Healing](https://github.com/ShauryaDevHub/Quantum-Mechanics-Research-Project-/blob/main/poster.png)
 
 Quantum healing is a holistic approach that blends ancient philosophies, energy medicine, and emerging scientific theories. Rooted in the concept that the human body is not just a physical entity but also an energy system, quantum healing proposes that positive thoughts and intentions can influence cellular and energetic states, promoting self-healing. The term was popularized by Deepak Chopra and draws parallels with quantum physics, suggesting that the body and mind are interconnected at a quantum level.
 
